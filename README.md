@@ -21,10 +21,33 @@ A graphical C++ gaming hub built with SFML, featuring 3 classic games that can b
 
 ---
 
+## Screenshots
+
+Main Hub
+<img src="img/SS_Hub.png">
+
+Tic Tac Toe
+<img src="img/SS_Tic.png">
+
+Tetris
+<img src="img/SS_Tetris.png">
+
+Snake
+<img src="img/SS_Snake.png">
+
+---
+
 ## Project Structure
 
 ```
 Gaming-Hub/
+├── Fonts/            # Fonts used in the project
+├── img/              # Images used in the project
+|    ├── galaxy.jpg
+|    ├── SS_Snake.png
+|    ├── SS_Tetris.png
+|    ├── SS_Tic.png
+|    └── SS_Hub.png
 ├── main.cpp          # Starting point, Main Hub
 ├── Header.h          # All the declarations
 ├── Button.cpp        # Reusable SFML button component
