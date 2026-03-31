@@ -6,9 +6,9 @@ A graphical C++ gaming hub built with SFML, featuring 3 classic games that can b
 
 ## Games
 
-| - Snake
-| - Tetris
-| - Tic-Tac-Toe
+- Snake
+- Tetris
+- Tic-Tac-Toe
 
 ---
 
